@@ -1,0 +1,26 @@
+{
+  "name": "banco-api-performance",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danicsl23/banco-api-performance.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danicsl23/banco-api-performance/issues"
+  },
+  "homepage": "https://github.com/danicsl23/banco-api-performance#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
