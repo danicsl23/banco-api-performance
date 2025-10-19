@@ -101,4 +101,8 @@ Após a execução, o relatório `html-report.html` será gerado no diretório a
 ---
 
 **Autor:** Danielle Lopes  
+<<<<<<< HEAD
 📅 Última atualização: Outubro de 2025
+=======
+📅 Última atualização: Outubro de 2025
+>>>>>>> 1ef0cb335ddb93afb67dc323c5475fc3f530e5b0
